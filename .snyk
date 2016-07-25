@@ -12,3 +12,6 @@ patch:
         patched: '2016-07-07T16:04:29.572Z'
     - tap > coveralls > request:
         patched: '2016-07-07T16:04:29.572Z'
+  'npm:tough-cookie:20160722':
+    - tap > coveralls > request > tough-cookie:
+        patched: '2016-07-25T09:55:40.858Z'
