@@ -19,7 +19,7 @@
     "ejs": "1.0.0",
     "ejs-locals": "1.0.2",
     "errorhandler": "1.4.3",
-    "express": "4.14.0",
+    "express": "4.20.0",
     "humanize-ms": "1.0.2",
     "method-override": "latest",
     "mongoose": "4.3.6",
